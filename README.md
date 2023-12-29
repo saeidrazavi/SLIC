@@ -1,2 +1,1 @@
 # SLIC
-SLIC Segmentation
