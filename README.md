@@ -1,0 +1,2 @@
+# SLIC
+SLIC Segmentation
